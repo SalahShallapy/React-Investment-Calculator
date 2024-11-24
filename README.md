@@ -79,9 +79,9 @@ To get started with the project locally:
 
 - Enter the Initial Investment, Annual Investment, Expected Return (%), and Duration (years) in the input fields.
 - View the results displayed in a table, including:
-  . Yearly investment values.
-  . Annual and total interest earned.
-  . Total invested capital.
+  • Yearly investment values.
+  • Annual and total interest earned.
+  • Total invested capital.
 
   ## Contributing
 
